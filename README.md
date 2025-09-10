@@ -3,7 +3,7 @@ Compiled reserch on using machine learning models to analyze digital ADHD tests.
 
 Machine Learning Analysis of Mouse Movements for Detecting ADHD
 
-Abstract
+##Abstract
 
 Accurately detecting late-onset or mild Attention-Deficit/Hyperactivity Disorder (ADHD) remains one of the major challenges in behavioral health. Traditional screening methods, such as self-reported questionnaires, are affected by biases and can’t directly assess patient behavior. Recent research shows that machine learning (ML) can enhance digital ADHD testing by analyzing mouse movements to identify behaviors consistent with ADHD.
 
@@ -20,7 +20,7 @@ Overall, machine learning has the potential to provide valuable insights that ai
 
 
 
-Citations
+##Citations
 
 
 1.	Leontyev A, Sun S, Wolfe M, Yamauchi T. Augmented Go/No-Go Task: Mouse Cursor Motion Measures Improve ADHD Symptom Assessment in Healthy College Students. Front Psychol. 2018 Apr 11;9:496. doi: 10.3389/fpsyg.2018.00496. PMID: 29695985; PMCID: PMC5905239.
