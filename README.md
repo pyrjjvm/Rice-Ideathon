@@ -1,4 +1,8 @@
 # Rice-Ideathon
+
+## See the demo:
+https://youtu.be/spb_7KnexDA?si=6eBrJ9oLtK04LmJE
+
 Compiled reserch on using machine learning models to analyze digital ADHD tests. I'll be presenting at the AI in Health Conference.
 
 Machine Learning Analysis of Mouse Movements for Detecting ADHD
